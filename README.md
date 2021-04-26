@@ -3,7 +3,7 @@ Three page website for a cloud hosting client. Responsive on all screen sizes an
 
 **Link to project:** https://loruki-ycp.netlify.app/index.html
 
-![alt tag](http://placecorgi.com/1200/650)
+![alt tag](https://imgur.com/a/Ql1XGrm)
 
 ## How It's Made:
 
